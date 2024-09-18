@@ -26,7 +26,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 2 install web platform installer 
 - Item 3 install MySQL and set up username and password
 - Item 4 Install C++ redistributable 
-- Item 5 Configure permissions and install OS-Ticket 
+- Item 5 Configure permissions and install OS-Ticket
+
+
+
+- 
 
 <h2>Installation Steps</h2>
 
