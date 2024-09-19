@@ -67,21 +67,22 @@ Connect to Your Virtual Machine:
 
 - Retrieve the Public IP Address: Once your VM is created, locate and note the public IP address assigned to it in the Azure Portal.
 
-- Use Remote Desktop: Open the Remote Desktop Connection application on your local machine.
 
-- Establish the Connection: Enter the VM's public IP address in the Remote Desktop app.
+- Use Remote Desktop: Open the Remote Desktop Connection application on your local machine. (Downloand Microsoft remote desktop on mac from app store)
 
-- Enter password: Enter your previously made username and password. 
+- Establish the Connection: Click the + icon add PC and enter the VM's public IP address in the Remote Desktop app.
 
+- Enter password: Enter your previously made username and password.
 
-
-
-
-
-
+<img width="1407" alt="Screenshot 2024-09-19 at 2 06 03 PM" src="https://github.com/user-attachments/assets/3f54c539-e49f-4dd2-914b-42f639ee60b4">
 </p>
 <p>
+<img width="458" alt="Screenshot 2024-09-19 at 2 33 00 PM" src="https://github.com/user-attachments/assets/9c525d6b-5711-44c8-8859-2dc5313bc2b3">
 
+
+
+
+ 
 </p>
 <br />
 
