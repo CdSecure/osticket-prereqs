@@ -105,12 +105,24 @@ Access Application Development Features:
 
   
 Enable CGI and Common HTTP Features:
-
 Check the Boxes:
 - CGI: Locate and check the box next to "CGI" to enable Common Gateway Interface support.
 - Common HTTP Features: Ensure that "Common HTTP Features" is also checked.
 
-- <img width="1434" alt="Screenshot 2024-09-19 at 3 02 33 PM" src="https://github.com/user-attachments/assets/5f08c7e7-6a85-4b42-a204-13f0764b703f">
+ <img width="1434" alt="Screenshot 2024-09-19 at 3 02 33 PM" src="https://github.com/user-attachments/assets/5f08c7e7-6a85-4b42-a204-13f0764b703f">
+
+ Apply the Changes:
+
+After selecting the necessary features, click "OK".
+Windows will proceed to install and configure IIS with the selected components. This process may take a few minutes.
+
+Verify IIS Installation:
+
+- Once the installation is complete, you can verify that IIS is running by opening a web browser within your virtual machine and typing in  127.0.0.1 in the webbrowser.
+- You should see the default IIS Welcome page, similar to this.
+
+ <img width="1800" alt="Screenshot 2024-09-19 at 3 12 15 PM" src="https://github.com/user-attachments/assets/ef1f6ea9-8806-4f45-8114-14da5b7184ee">
+ 
 
 <p>
 </p>
