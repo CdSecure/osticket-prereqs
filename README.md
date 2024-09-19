@@ -253,6 +253,25 @@ Run IIS with Administrative Privileges:
 - Once IIS appears in the search results, double-click on it.
 - Click "Run as administrator" to launch IIS with the necessary administrative rights, allowing you to configure PHP for OsTicket.
 <img width="782" alt="Screenshot 2024-09-19 at 5 38 45 PM" src="https://github.com/user-attachments/assets/b24631f5-8827-4207-af22-0ee83f934b29">
+- This is what ISS admin should look like
+  <img width="1335" alt="Screenshot 2024-09-19 at 5 53 07 PM" src="https://github.com/user-attachments/assets/6958d44b-0fd5-4cfa-a89e-8efd989df3e4">
+   Register PHP with IIS
+Open PHP Manager:
+
+- In IIS Manager, navigate to the PHP Manager section.
+- 
+Register a New PHP Version:
+
+- Click on "Register new PHP version".
+- Browse to the PHP installation directory (e.g., C:\PHP) and select the php-cgi.exe file.
+- Click "OK" to complete the registration.
+  
+<img width="1336" alt="Screenshot 2024-09-19 at 5 55 03 PM" src="https://github.com/user-attachments/assets/1f638417-b3ef-4d06-a5f4-2decc38bce10">
+
+Click the three dots(...) to browse
+
+<img width="508" alt="Screenshot 2024-09-19 at 5 56 08 PM" src="https://github.com/user-attachments/assets/4a6b4014-11ea-4577-ac12-22b393e06ad9">
+
 
 </p>
 <br />
