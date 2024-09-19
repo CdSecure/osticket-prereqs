@@ -259,7 +259,7 @@ Run IIS with Administrative Privileges:
 Open PHP Manager:
 
 - In IIS Manager, navigate to the PHP Manager section.
-- 
+
 Register a New PHP Version:
 
 - Click on "Register new PHP version".
@@ -271,6 +271,25 @@ Register a New PHP Version:
 Click the three dots(...) to browse
 
 <img width="508" alt="Screenshot 2024-09-19 at 5 56 08 PM" src="https://github.com/user-attachments/assets/4a6b4014-11ea-4577-ac12-22b393e06ad9">
+ <p>
+</p>
+<p>
+</p>
+<p> 
+<img width="885" alt="Screenshot 2024-09-19 at 5 58 23 PM" src="https://github.com/user-attachments/assets/0c4f3b98-0be0-416d-9345-3fe74758d8d6">
+Restart the Web Server (IIS)
+ 
+Navigate to the OsTicket Tab:
+
+- Click on the OsTicket tab located at the top-left corner of the interface.
+  
+Initiate stop and start:
+
+- On the right side of the OsTicket tab, you will see a start and stop  button.
+- Click the stop button to restart the IIS web server.
+- Click the start button to restart the server.
+  
+<img width="1332" alt="Screenshot 2024-09-19 at 6 00 50 PM" src="https://github.com/user-attachments/assets/67f8a0d1-f8e4-45de-bdf6-118f379bc235">
 
 
 </p>
