@@ -215,24 +215,33 @@ Locate the Visual C++ Redistributable Installer:
 <p>
 <img width="480" alt="Screenshot 2024-09-19 at 5 14 00 PM" src="https://github.com/user-attachments/assets/d99ff3fa-23fb-4d1c-bffa-d0f4aed1bc57">
 
-VC_redist.x86.exe.
+ Install the MySQl Package from the Installation Package
+ 
+Locate the MySQL  Installer:
 
-</p>
-<br />
+- Navigate to the installation directory where you previously extracted the PHP files.
+- Look for the  MySQL installer file, typically named (mysql-5.5.62-win32.msi))
+
+<img width="1121" alt="Screenshot 2024-09-19 at 5 21 32 PM" src="https://github.com/user-attachments/assets/ecef766a-413b-467e-b5b8-9394b06e49ea">
 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+- Once you reach this page, select Typical, click Finish, and launch MySQL on your computer.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="497" alt="Screenshot 2024-09-19 at 5 22 36 PM" src="https://github.com/user-attachments/assets/f30c30bc-68c4-4a2e-8864-0aa94af33b74">
+
+- After launching MySQL, click Next and select Standard Configuration, leaving the subsequent options unchanged. 
+- When prompted for a username and password, set both to root for simplicity, this is only for the lab please don't do this in real life. Please note these credentials for future use.
+- After it is set please click execute. And finish
+
+
+<img width="494" alt="Screenshot 2024-09-19 at 5 25 30 PM" src="https://github.com/user-attachments/assets/8f050bfb-4fad-4ec5-b25e-9eb9b99695e4">
+ <p>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<p>
+<img width="497" alt="Screenshot 2024-09-19 at 5 28 49 PM" src="https://github.com/user-attachments/assets/08b61739-abdb-429d-9251-330435a2023f">
+
+
 </p>
 <br />
