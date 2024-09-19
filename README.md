@@ -77,6 +77,8 @@ Connect to Your Virtual Machine:
 <img width="1407" alt="Screenshot 2024-09-19 at 2 06 03 PM" src="https://github.com/user-attachments/assets/3f54c539-e49f-4dd2-914b-42f639ee60b4">
 </p>
 <p>
+</p>
+<p>
 <img width="458" alt="Screenshot 2024-09-19 at 2 33 00 PM" src="https://github.com/user-attachments/assets/9c525d6b-5711-44c8-8859-2dc5313bc2b3">
 
 After connecting to your virtual machine:
@@ -85,12 +87,40 @@ After connecting to your virtual machine:
   
 - Navigate to Programs: In the Control Panel, select "Programs".
 
-Modify Windows Features: Click on "Turn Windows features on or off" to manage and adjust the Windows features as needed.
+- Modify Windows Features: Click on "Turn Windows features on or off" to manage and adjust the Windows features as needed.
+
+<img width="789" alt="Screenshot 2024-09-19 at 2 26 35 PM" src="https://github.com/user-attachments/assets/33bc98ee-fbe3-4397-a314-ae68a6fc9b7e">
+<p>
+</p>
+<p>
+<img width="1120" alt="Screenshot 2024-09-19 at 2 39 09 PM" src="https://github.com/user-attachments/assets/bae4bafd-72c9-4837-ab68-19600bbd8952">
+<p>
+</p>
+<p>
+<img width="1122" alt="Screenshot 2024-09-19 at 2 42 02 PM" src="https://github.com/user-attachments/assets/58e79646-5a20-4070-9e01-9527e10acf4b">
+
+Access Application Development Features:
+
+- Under "World Wide Web Services", expand the "Application Development Features" node.
+
+  
+Enable CGI and Common HTTP Features:
+
+Check the Boxes:
+- CGI: Locate and check the box next to "CGI" to enable Common Gateway Interface support.
+- Common HTTP Features: Ensure that "Common HTTP Features" is also checked.
+
+- <img width="1434" alt="Screenshot 2024-09-19 at 3 02 33 PM" src="https://github.com/user-attachments/assets/5f08c7e7-6a85-4b42-a204-13f0764b703f">
+
+<p>
+</p>
+<p>
 
 
  
 </p>
 <br />
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
