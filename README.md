@@ -145,10 +145,28 @@ Download the URL Rewrite Module:
 
 - Locate the URL Rewrite Module installer.
 - (rewrite_amd64_en-US.msi)
-- Click on the "Download" button 
+- Click on the "Download" button
+- When it's done installing click finsih
 
 <p><img width="1123" alt="Screenshot 2024-09-19 at 3 37 30 PM" src="https://github.com/user-attachments/assets/d466d497-e148-4aca-a710-c363081d9cdd">
 
+Create a "PHP" Directory on the C: Drive
+
+Open "This PC":
+
+- Click on the "This PC" icon on your desktop or access it from the Start menu.
+Navigate to the C: Drive:
+
+- In the "This PC" window, locate and double-click on the "Local Disk (C:)" folder.
+Create the "PHP" Folder:
+
+- Inside the C: drive folder, right-click on an empty space.
+From the context menu, select "New" and then click on "Folder".
+Name the new folder "PHP" and press Enter to confirm.
+
+
+
+<img width="1125" alt="Screenshot 2024-09-19 at 4 53 01 PM" src="https://github.com/user-attachments/assets/c6d694e4-7974-4be1-b4d1-4d53a653e6a8">
 
 </p>
 <p>
@@ -157,6 +175,7 @@ Download the URL Rewrite Module:
  
 </p>
 <br />
+<img width="1125" alt="Screenshot 2024-09-19 at 4 53 01 PM" src="https://github.com/user-attachments/assets/c6d694e4-7974-4be1-b4d1-4d53a653e6a8">
 
 
 <p>
