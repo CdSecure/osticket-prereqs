@@ -122,9 +122,34 @@ Verify IIS Installation:
 - You should see the default IIS Welcome page, similar to this.
 
  <img width="1800" alt="Screenshot 2024-09-19 at 3 12 15 PM" src="https://github.com/user-attachments/assets/ef1f6ea9-8806-4f45-8114-14da5b7184ee">
- 
 
-<p>
+Download PHP Manager for IIS:
+
+- Navigate back to your installation files or download source.
+- Locate the PHP Manager for IIS installation package.
+- This file (PHPManagerForIIS_V1.5.0.msi)
+- Download the latest version compatible with your system.
+  
+Run the Installer:
+
+- Open the downloaded PHP Manager for IIS installer.
+- Follow the installation wizard, agreeing to any license terms and selecting the appropriate installation options.
+ 
+ <img width="1128" alt="Screenshot 2024-09-19 at 3 28 00 PM" src="https://github.com/user-attachments/assets/499b95e1-c882-4173-815f-05dc441dc853">
+ 
+Return to the Installation Directory:
+
+- Navigate back to the installation files where you previously obtained the PHP Manager for IIS.
+
+  Download the URL Rewrite Module:
+
+- Locate the URL Rewrite Module installer.
+- (rewrite_amd64_en-US.msi)
+- Click on the "Download" button 
+
+<p><img width="1123" alt="Screenshot 2024-09-19 at 3 37 30 PM" src="https://github.com/user-attachments/assets/d466d497-e148-4aca-a710-c363081d9cdd">
+
+
 </p>
 <p>
 
