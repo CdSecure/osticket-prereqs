@@ -230,7 +230,7 @@ Locate the MySQL  Installer:
 <img width="497" alt="Screenshot 2024-09-19 at 5 22 36 PM" src="https://github.com/user-attachments/assets/f30c30bc-68c4-4a2e-8864-0aa94af33b74">
 
 - After launching MySQL, click Next and select Standard Configuration, leaving the subsequent options unchanged. 
-- When prompted for a username and password, set both to root for simplicity, this is only for the lab please don't do this in real life. Please note these credentials for future use.
+- When prompted for a username and password, set both to root for simplicity, this is only for the lab please DO NOT do this  in real life. Please note these credentials for future use.
 - After it is set please click execute. And finish
 
 
@@ -242,6 +242,18 @@ Locate the MySQL  Installer:
 <p>
 <img width="497" alt="Screenshot 2024-09-19 at 5 28 49 PM" src="https://github.com/user-attachments/assets/08b61739-abdb-429d-9251-330435a2023f">
 
+ 
+Open IIS as an Administrator
+Search for IIS:
+
+- In the bottom-right corner of your screen, type "IIS" into the search bar.
+  
+Run IIS with Administrative Privileges:
+
+- Once IIS appears in the search results, double-click on it.
+- Click "Run as administrator" to launch IIS with the necessary administrative rights, allowing you to configure PHP for OsTicket.
+<img width="782" alt="Screenshot 2024-09-19 at 5 38 45 PM" src="https://github.com/user-attachments/assets/b24631f5-8827-4207-af22-0ee83f934b29">
 
 </p>
 <br />
+
