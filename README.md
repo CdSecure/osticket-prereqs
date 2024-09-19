@@ -141,7 +141,7 @@ Return to the Installation Directory:
 
 - Navigate back to the installation files where you previously obtained the PHP Manager for IIS.
 
-  Download the URL Rewrite Module:
+Download the URL Rewrite Module:
 
 - Locate the URL Rewrite Module installer.
 - (rewrite_amd64_en-US.msi)
