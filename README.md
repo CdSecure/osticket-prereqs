@@ -165,17 +165,47 @@ From the context menu, select "New" and then click on "Folder".
 Name the new folder "PHP" and press Enter to confirm.
 
 
-
 <img width="1125" alt="Screenshot 2024-09-19 at 4 53 01 PM" src="https://github.com/user-attachments/assets/c6d694e4-7974-4be1-b4d1-4d53a653e6a8">
 
-</p>
+Extract the PHP Installation Files into the "PHP" Folder
+
+Locate the PHP Zip File:
+
+- Navigate to the installation directory where you downloaded the PHP zip file.
+
+Open the Zip File:
+
+- Double-click on the PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) file to open it.
+
+Begin Extraction:
+
+- In the zip file window, click on "Extract All..." to start the extraction process.
+  
+Select the Destination Folder:
+
+- In the "Extract Compressed (Zipped) Folders" box, click on "Browse" to choose where to extract the files.
+- Navigate to C:\ by selecting "This PC" and then "Local Disk (C:)".
+- Choose the "PHP" folder you created earlier and click "Select Folder".
+
+
+
+</p><img width="1123" alt="Screenshot 2024-09-19 at 5 03 28 PM" src="https://github.com/user-attachments/assets/581fc67c-e366-4bcd-a4d9-f9f3a40a4333">
+
+
+
+
+
+
+
+
+<img width="1121" alt="Screenshot 2024-09-19 at 5 05 06 PM" src="https://github.com/user-attachments/assets/82e9642a-13c0-4205-a4c4-760eb3617bc8">
+
 <p>
 
 
  
 </p>
 <br />
-<img width="1125" alt="Screenshot 2024-09-19 at 4 53 01 PM" src="https://github.com/user-attachments/assets/c6d694e4-7974-4be1-b4d1-4d53a653e6a8">
 
 
 <p>
