@@ -79,7 +79,13 @@ Connect to Your Virtual Machine:
 <p>
 <img width="458" alt="Screenshot 2024-09-19 at 2 33 00 PM" src="https://github.com/user-attachments/assets/9c525d6b-5711-44c8-8859-2dc5313bc2b3">
 
+After connecting to your virtual machine:
 
+- Access the Control Panel: Locate the Control Panel icon in the bottom-left corner of the screen and click on it.
+  
+- Navigate to Programs: In the Control Panel, select "Programs".
+
+Modify Windows Features: Click on "Turn Windows features on or off" to manage and adjust the Windows features as needed.
 
 
  
