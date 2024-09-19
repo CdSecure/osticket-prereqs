@@ -190,20 +190,33 @@ Select the Destination Folder:
 
 
 </p><img width="1123" alt="Screenshot 2024-09-19 at 5 03 28 PM" src="https://github.com/user-attachments/assets/581fc67c-e366-4bcd-a4d9-f9f3a40a4333">
-
-
-
-
-
-
-
-
+<p>
+</p>
+<p>
+</p>
+<p>
 <img width="1121" alt="Screenshot 2024-09-19 at 5 05 06 PM" src="https://github.com/user-attachments/assets/82e9642a-13c0-4205-a4c4-760eb3617bc8">
 
 <p>
 
-
+ Install the Visual C++ Redistributable Package from the Installation Package
  
+Locate the Visual C++ Redistributable Installer:
+
+- Navigate to the installation directory where you previously extracted the PHP files.
+- Look for the Visual C++ Redistributable installer file (VC_redist.x86.exe.).
+- Install the file 
+
+ <img width="1124" alt="Screenshot 2024-09-19 at 5 13 33 PM" src="https://github.com/user-attachments/assets/734a16ae-11a6-4c3c-9ba5-72828c600bd8">
+ <p>
+</p>
+<p>
+</p>
+<p>
+<img width="480" alt="Screenshot 2024-09-19 at 5 14 00 PM" src="https://github.com/user-attachments/assets/d99ff3fa-23fb-4d1c-bffa-d0f4aed1bc57">
+
+VC_redist.x86.exe.
+
 </p>
 <br />
 
