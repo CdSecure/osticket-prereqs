@@ -427,8 +427,7 @@ Enable Necessary PHP Features:
 
 - Select the features that are currently disabled and enable them.
 
-- These are the three we will enable
- Double click them and click enable 
+These are the three we will enable, double click them and click enable 
 - Enable: php_imap.dll
 - Enable: php_intl.dll
 - Enable: php_opcache.dll
