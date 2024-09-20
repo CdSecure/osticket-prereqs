@@ -291,6 +291,60 @@ Initiate stop and start:
   
 <img width="1332" alt="Screenshot 2024-09-19 at 6 00 50 PM" src="https://github.com/user-attachments/assets/67f8a0d1-f8e4-45de-bdf6-118f379bc235">
 
+ Install OsTicket
+Return to the OsTicket Installer:
+
+- Navigate back to the OsTicket installer.
+  
+Locate and Extract the Installer File:
+
+- Find the OsTicket installer file within the installation package.
+- Click on the OsTicket folder and select "Extract" to unzip the installer.
+
+<img width="1123" alt="Screenshot 2024-09-20 at 12 29 33 PM" src="https://github.com/user-attachments/assets/3354b1ea-5134-41da-be68-5390d09cc6ea">
+
+<p>
+</p>
+<p>
+</p>
+<p> 
+<img width="1116" alt="Screenshot 2024-09-20 at 12 29 54 PM" src="https://github.com/user-attachments/assets/1fa2c38f-26cd-4e62-b71d-1b1e493a4466">
+
+
+Access the Extracted Folders:
+
+- Once extraction is complete, open the extracted OsTicket folder.
+- You will see two folders inside.
+  
+Copy Installer Files to the Web Server Folder:
+
+- Copy the necessary files from the extracted folders.
+- Go to Window C->inetpub->wwwroot.
+- Click into wwroot and drag the upload folder into it.
+
+Rename the Folder:
+
+- Right-click on the "upload" folder.
+- Select "Rename" from the context menu.
+- Change the folder name from "upload" to EXACTLY "osTicket".
+- Press Enter to confirm the new name.
+
+<img width="1122" alt="Screenshot 2024-09-20 at 12 33 23 PM" src="https://github.com/user-attachments/assets/6b872296-d07f-48e0-a379-54ffe0d972d1">
+<p>
+</p>
+<p>
+</p>
+<p> 
+<img width="1148" alt="Screenshot 2024-09-20 at 12 49 55 PM" src="https://github.com/user-attachments/assets/cf9660c3-0df0-4821-9023-2d3c1b2e0d29">
+<p>
+</p>
+<p>
+</p>
+<p> 
+<img width="1128" alt="Screenshot 2024-09-20 at 12 55 07 PM" src="https://github.com/user-attachments/assets/780852a6-5a38-49b3-86fd-cef13d1a0d2c">
+
+
+
 
 </p>
 <br />
