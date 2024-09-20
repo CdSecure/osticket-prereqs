@@ -436,3 +436,75 @@ These are the three we will enable, double click them and click enable
 
 <img width="1332" alt="Screenshot 2024-09-20 at 1 42 02 PM" src="https://github.com/user-attachments/assets/4dcc5555-280a-4069-9344-3465309ac10d">
 
+Assign Permissions to the OsTicket Folder
+Open File Explorer:
+
+- Navigate to the File Explorer on your Windows virtual machine.
+  
+Access the wwwroot Folder:
+
+- Go to the C:\inetpub\wwwroot directory where your web server files are stored.
+  
+Locate the OsTicket Folder:
+
+- Find the "osticket" folder within the wwwroot directory.
+- Click into the folder and find the file "include"
+
+<img width="1143" alt="Screenshot 2024-09-20 at 1 58 34 PM" src="https://github.com/user-attachments/assets/4e6c3b46-2d1c-4e92-8abc-66692f60240e">
+
+Rename the Configuration File
+
+Locate the Sample Configuration File:
+
+- Find the file named ost-sampleconfig.php within the include folder.
+  
+Rename the File:
+
+- Right-click on ost-sampleconfig.php and select "Rename".
+- Change the file name to ost-config.php and press Enter to continue.
+
+  <img width="1115" alt="Screenshot 2024-09-20 at 2 02 01 PM" src="https://github.com/user-attachments/assets/d03b0e53-9d37-4806-bfea-d6e83ce397c5">
+
+  <p>
+</p>
+<p>
+</p>
+<p> 
+  
+  
+
+<img width="766" alt="Screenshot 2024-09-20 at 2 07 54 PM" src="https://github.com/user-attachments/assets/7709a0f8-e537-4eb9-b700-033526632419">
+Allow osTicket to Modify Files in the Background
+
+Open File Properties
+- Access the File
+- Double-click the newly renamed file or
+- Right-click the file and select Properties from the context menu.
+  
+ Navigate to Security Settings
+ 
+- Open the Security Tab:
+- In the Properties window, click on the Security tab located at the top.
+
+Access Advanced Security Settings
+- Click on Advanced:
+- Within the Security tab, click the Advanced button to open the Advanced Security Settings window.
+
+Disable Inheritance
+- Locate Disable Inheritance:
+- In the Advanced Security Settings window, find the Disable inheritance option at the bottom left.
+Click Disable Inheritance:
+
+Click Disable inheritance.
+Choose How to Handle Inherited Permissions:
+
+  
+
+
+<img width="766" alt="Screenshot 2024-09-20 at 2 06 49 PM" src="https://github.com/user-attachments/assets/7d8ab1e6-5c7b-40b0-a754-dbeac837dde1">
+
+  
+
+
+
+
