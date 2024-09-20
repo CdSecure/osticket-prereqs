@@ -498,13 +498,61 @@ Click Disable Inheritance:
 Click Disable inheritance.
 Choose How to Handle Inherited Permissions:
 
-  
-
 
 <img width="766" alt="Screenshot 2024-09-20 at 2 06 49 PM" src="https://github.com/user-attachments/assets/7d8ab1e6-5c7b-40b0-a754-dbeac837dde1">
 
   
 
+Add New Permissions
+- Click Add
+- In the Advanced Security Settings window, click the Add button to create a new permission entry.
+  
+Select a Principal:
 
+- Click Select a principal.
+- Type "Everyone" in the box.
+- Click Check Names to validate the entry.
+- After click the box full control like below.
+
+<img width="921" alt="Screenshot 2024-09-20 at 2 20 45 PM" src="https://github.com/user-attachments/assets/10a3e056-2335-4512-99a6-4a7961567c9e">
+
+ <p>
+</p>
+<p>
+</p>
+<p> 
+<img width="914" alt="Screenshot 2024-09-20 at 2 25 09 PM" src="https://github.com/user-attachments/assets/f192de94-82df-45df-b568-d842c0269186">
+  <p>
+</p>
+<p>
+</p>
+<p> 
+- Everything should look like hte image below. Please click "apply" then ok.
+<img width="767" alt="Screenshot 2024-09-20 at 2 26 07 PM" src="https://github.com/user-attachments/assets/01090ac9-f46d-409e-ad72-ba100d4ab352">
+  <p>
+</p>
+<p>
+</p>
+<p> 
+ - Click ok for this window
+   
+ <img width="360" alt="Screenshot 2024-09-20 at 2 27 24 PM" src="https://github.com/user-attachments/assets/a81cfde8-7dcf-4729-b2e7-106c4d21ec96">
+
+Finish Installation and Sign Up in osTicket Browser
+
+Open Your Web Browser:
+- Navigate to the osTicket installation URL (e.g., http://yourdomain.com/osticket).
+  
+Fill Out the Installation Form:
+
+- Complete all required fields in the sign-up form.
+- Ensure that all email addresses used are different to avoid any conflicts or issues.
+  
+Record Admin Credentials:
+
+- Write down the username and password you create for the admin account.
+- Keep this information secure, as it is essential for accessing the admin panel.
+ 
+<img width="1165" alt="Screenshot 2024-09-20 at 2 33 27 PM" src="https://github.com/user-attachments/assets/82b0d398-c582-4112-a227-aad175651ff7">
 
 
