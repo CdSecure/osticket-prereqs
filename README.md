@@ -534,14 +534,14 @@ Select a Principal:
 <p>
 </p>
 <p> 
- - Click ok for this window
+ Click ok for this window
    
  <img width="360" alt="Screenshot 2024-09-20 at 2 27 24 PM" src="https://github.com/user-attachments/assets/a81cfde8-7dcf-4729-b2e7-106c4d21ec96">
 
 Finish Installation and Sign Up in osTicket Browser
 
 Open Your Web Browser:
-- Navigate to the osTicket installation URL (e.g., http://yourdomain.com/osticket).
+- Navigate to the osTicket installation URL.
   
 Fill Out the Installation Form:
 
@@ -554,5 +554,71 @@ Record Admin Credentials:
 - Keep this information secure, as it is essential for accessing the admin panel.
  
 <img width="1165" alt="Screenshot 2024-09-20 at 2 33 27 PM" src="https://github.com/user-attachments/assets/82b0d398-c582-4112-a227-aad175651ff7">
+Fixing the Database Section
 
+Install HeidiSQL
+- Locate HeidiSQL Installer:
+- Within the osTicket installation folder, find the HeidiSQL installer file.
+
+Run the Installer:
+
+- Double-click the HeidiSQL installer to start the installation process.
+  
+Follow Installation Prompts:
+
+- Accept the license agreement when prompted.
+- Click Next on the subsequent windows to proceed through the installation steps.
+- Choose the installation directory if prompted, or proceed with the default settings.
+- Click Install to begin the installation.
+- Once installation is complete, click Finish.
+
+<img width="1136" alt="Screenshot 2024-09-20 at 2 42 53 PM" src="https://github.com/user-attachments/assets/d5351b94-570f-4faf-85b3-436d9bc05134">
+
+ <p>
+</p>
+<p>
+</p>
+<p> 
+ 
+<img width="592" alt="Screenshot 2024-09-20 at 2 45 11 PM" src="https://github.com/user-attachments/assets/0ea8fef5-5df8-4762-be24-563b0f5cdbb4">
+- Skip this window
+<img width="384" alt="Screenshot 2024-09-20 at 2 47 01 PM" src="https://github.com/user-attachments/assets/9ff172dc-ea29-4277-b893-26924cde1d78">
+
+ Establish a Database Connection in HeidiSQL
+Click "New":
+
+- In the currently opened HeidiSQL window, click the "New" button located in the lower left corner.
+  
+Fill in Credentials:
+
+- Username: Ensure it is set to root.
+- Password: Enter the password associated with the root user.
+  
+Click "Open":
+
+- After entering the credentials, click the "Open" button to establish the connection.
+
+<img width="677" alt="Screenshot 2024-09-20 at 2 50 30 PM" src="https://github.com/user-attachments/assets/3634af5a-45de-4544-ac73-4d05aac037ca">
+
+Create a Database in HeidiSQL for osTicket
+
+Click "Unnamed":
+- In the top right corner of the HeidiSQL window, click on "Unnamed".
+  
+Create a New Database:
+- Select "Create new", then choose "Database".
+  
+Name the Database:
+- Enter "osTicket" as the database name.
+  
+Confirm Creation:
+- Click "OK" to create the database.
+
+<img width="934" alt="Screenshot 2024-09-20 at 2 56 32 PM" src="https://github.com/user-attachments/assets/f90948c4-47ed-43ff-8f65-5f8591e83c4b">
+<p>
+</p>
+<p>
+</p>
+<p> 
+<img width="925" alt="Screenshot 2024-09-20 at 2 58 10 PM" src="https://github.com/user-attachments/assets/4404c602-e48d-497d-a5c0-9be46ab48c9a">
 
