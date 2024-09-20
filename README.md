@@ -322,13 +322,6 @@ Copy Installer Files to the Web Server Folder:
 - Go to Window C->inetpub->wwwroot.
 - Click into wwroot and drag the upload folder into it.
 
-Rename the Folder:
-
-- Right-click on the "upload" folder.
-- Select "Rename" from the context menu.
-- Change the folder name from "upload" to EXACTLY "osTicket".
-- Press Enter to confirm the new name.
-
 <img width="1122" alt="Screenshot 2024-09-20 at 12 33 23 PM" src="https://github.com/user-attachments/assets/6b872296-d07f-48e0-a379-54ffe0d972d1">
 <p>
 </p>
@@ -343,9 +336,104 @@ Rename the Folder:
 <p> 
 <img width="1128" alt="Screenshot 2024-09-20 at 12 55 07 PM" src="https://github.com/user-attachments/assets/780852a6-5a38-49b3-86fd-cef13d1a0d2c">
 
+Rename the Folder:
+
+- Right-click on the "upload" folder.
+- Select "Rename" from the context menu.
+- Change the folder name from "upload" to EXACTLY "osTicket".
+- Press Enter to confirm the new name.
+
+- 
+<img width="1120" alt="Screenshot 2024-09-20 at 1 11 28 PM" src="https://github.com/user-attachments/assets/5455a58b-203e-40d1-9cfa-54d1a7d29b8d">
 
 
+ Start and Stop IIS to Reload the Server
+Open IIS Manager:
 
+- In the bottom left corner type ISS and run as admin
+
+Select Your Server:
+
+- In the Connections pane on the left, click on your server name to select it.
+  
+Stop the IIS Server:
+
+- In the Actions pane on the right, click on the "Stop" button to stop the IIS server.
+- 
+Start the IIS Server:
+
+- After a moment, click on the "Start" button in the Actions pane to start the IIS server again.
+
+<img width="1332" alt="Screenshot 2024-09-19 at 6 00 50 PM" src="https://github.com/user-attachments/assets/67f8a0d1-f8e4-45de-bdf6-118f379bc235">
+
+Browse OsTicket in IIS
+
+Navigate to the OsTicket Folder:
+
+- In the Connections pane on the left, expand the Sites node.
+- Click on "Default Web Site" to view its contents.
+  
+Select the OsTicket Directory:
+
+- Click on the "osticket" folder within the Default Web Site.
+
+Browse the OsTicket Application:
+
+- In the Actions pane on the right, click the "Browse" link.
+- This will open a web browser and navigate to your OsTicket installation.
+- You should see something like below 
+  
+</p><img width="1332" alt="Screenshot 2024-09-20 at 1 17 37 PM" src="https://github.com/user-attachments/assets/f0a8b83f-21d3-4d7d-8d06-5fbf40c662b9">
+
+<p>
 </p>
+<p>
+</p>
+<p> 
+<img width="1205" alt="Screenshot 2024-09-20 at 1 29 40 PM" src="https://github.com/user-attachments/assets/fcc34444-6273-4e8f-9d64-4ff3f04115d5">
+
+Enable PHP Features for OsTicket
+ 
+Open IIS Manager:
+
+- Bottom left type ISS and double click to run as admin
+  
+Navigate to the OsTicket Directory:
+
+- In the Connections pane on the left, expand the Sites node.
+- Click on the "Default Web Site" and then select the "osticket" folder.
+  
+Access PHP Manager:
+
+- In the Actions pane on the right, click on "PHP Manager".
+
 <br />
+<img width="1336" alt="Screenshot 2024-09-20 at 1 34 26 PM" src="https://github.com/user-attachments/assets/b724515a-fca8-43ba-bb57-045e2b4c85b1">
+<p>
+</p>
+<p>
+</p>
+<p> 
+<img width="1332" alt="Screenshot 2024-09-20 at 1 39 24 PM" src="https://github.com/user-attachments/assets/632eacdd-2abe-43ce-a02a-e34205465818">
+<p>
+</p>
+<p>
+</p>
+<p> 
+ 
+Enable Necessary PHP Features:
+
+- In the PHP Manager, you’ll see a list of PHP extensions and features that may not be enabled.
+
+- Select the features that are currently disabled and enable them.
+
+- These are the three we will enable
+ Double click them and click enable 
+- Enable: php_imap.dll
+- Enable: php_intl.dll
+- Enable: php_opcache.dll
+
+- After you enabled them please refresh OsTicket from the browser
+
+<img width="1332" alt="Screenshot 2024-09-20 at 1 42 02 PM" src="https://github.com/user-attachments/assets/4dcc5555-280a-4069-9344-3465309ac10d">
 
