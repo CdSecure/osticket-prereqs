@@ -622,3 +622,12 @@ Confirm Creation:
 <p> 
 <img width="925" alt="Screenshot 2024-09-20 at 2 58 10 PM" src="https://github.com/user-attachments/assets/4404c602-e48d-497d-a5c0-9be46ab48c9a">
 
+We will now head back to osTicket browser and please fill out the bottom form as shown in the screenshot. Username and password is root and click install now
+
+<img width="1243" alt="Screenshot 2024-09-20 at 3 13 57 PM" src="https://github.com/user-attachments/assets/f28f1273-6144-4f24-a334-91a0f9d3e60e">
+
+Congrats you have successfully instaleld osTicket. Your window should look like this.
+
+<img width="820" alt="Screenshot 2024-09-20 at 3 15 03 PM" src="https://github.com/user-attachments/assets/24791ecd-7e30-4164-91a9-4db7e39c2d52">
+
+
